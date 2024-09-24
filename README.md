@@ -1,5 +1,7 @@
 # MCIS6273 FALL 2024 Data Mining
 
+## Zotero Username
+VarshaUmmeda
 
 ## Homeworks
 
